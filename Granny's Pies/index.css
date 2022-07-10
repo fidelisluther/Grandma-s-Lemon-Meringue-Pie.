@@ -1,0 +1,27 @@
+*{
+    margin: 2;
+}
+.navbar{
+background-color: crimson;
+padding: 1em;
+word-spacing: 0.4em;
+text-align: right;
+}
+.nav-link{
+    font-size: 1.5em;
+    text-decoration: none;
+    margin-right: 0.5em;
+    border: #ccd5dd; 
+    padding: 0.2em;
+}
+.navbar-link:hover{
+    background-color: rgb(252, 165, 230) ;
+}
+.header{
+    text-align: center;
+}
+.img{
+    max-width: 100%;
+  height: auto;
+  align-items: center;
+}
